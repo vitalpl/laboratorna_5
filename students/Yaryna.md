@@ -19,3 +19,6 @@
 Інструменти: Git, GitHub, Figma
 3D-моделювання: Blender, Fusion 360
 Фреймворки: Qt, React, Node.js, Django
+
+Дата: 04.03.2026
+Автор останніх змін: Yaryna Kostiak
