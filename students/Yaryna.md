@@ -18,4 +18,4 @@
 Веб-технології: HTML/CSS
 Інструменти: Git, GitHub, Figma
 3D-моделювання: Blender, Fusion 360
-Фреймворки: Qt
+Фреймворки: Qt, React, Node.js, Django
