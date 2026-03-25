@@ -15,3 +15,4 @@
 - React
 - HTML/CSS
 - PostgreSQL
+- С++
